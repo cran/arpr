@@ -1,0 +1,14 @@
+c7d88f723136ab06f987d8e9341caa1d *DESCRIPTION
+1225b425d36ccc1254476323ca7a13ba *NAMESPACE
+0319236e1fb4f3fe3b7d46ca2c718069 *R/arpr-package.R
+28b244ec5b49a6f26b0b3be6ef905326 *R/functional.R
+c7dc576807221bf53e0cd785104cece0 *R/magrittr_extensions.R
+c9157813680366f870c83221ccbc4a24 *R/paths.R
+3fe2514e3a81b9ad4c74523999068290 *man/arpr.Rd
+0e03e78e33c88da8c7dea5692585b8b6 *man/browse_r.Rd
+7dd21a99245f59208c05881d26d3e01c *man/const.Rd
+37b6cb3e2c94f53afc3c25cda6b3a7ed *man/iff.Rd
+8ade09baaa6af64c3c11980f2e98bc0e *man/pipe_into.Rd
+a137af437b1f4248ee76db805a84a255 *man/prefix.Rd
+2b8c7d4e2fc83a2f822ab6c5989292f8 *man/prefix_path.Rd
+55231333d901a6d4413b5bbaecdf1560 *man/remove_names.Rd
