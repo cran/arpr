@@ -7,7 +7,10 @@
 remove_names(x)
 }
 \arguments{
-\item{x}{object to un-name}
+\item{x}{object to unname}
+}
+\value{
+x without names.
 }
 \description{
 Remove names of an object
